@@ -647,14 +647,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = AV2T53YD9D;
+				DEVELOPMENT_TEAM = 29WJG67KYT;
 				INFOPLIST_FILE = "$(SRCROOT)/GPTemplateiOS/InfoPlist/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.lalafood.partners.driver;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dianarose.template;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -667,14 +667,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = AV2T53YD9D;
+				DEVELOPMENT_TEAM = 29WJG67KYT;
 				INFOPLIST_FILE = "$(SRCROOT)/GPTemplateiOS/InfoPlist/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.lalafood.partners.driver;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dianarose.template;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
